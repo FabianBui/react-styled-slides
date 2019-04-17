@@ -34,8 +34,8 @@ goToSlide = (increment) => {
   
 <Slider
 ...
-  prevSlide={() => this.goToSlide(-1)}
-  nextSlide={() => this.goToSlide(1)}
+  prevSlide={() => this.goToSlide(-1)} // When you swipe or drag right
+  nextSlide={() => this.goToSlide(1)} // When you swipe or drag left
 >
 ...
 
