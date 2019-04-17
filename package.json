@@ -1,0 +1,17 @@
+{
+    "name": "react-styled-slides",
+    "version": "0.1",
+    "description": "A styled-component slider for React.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fabianbuijing/react-styled-slides"
+    },
+    "main": "src/index.js",
+    "keywords": [
+        "styled-components",
+        "slider",
+        "react-slider"
+    ],
+    "author": "Fabian Buijing",
+    "homepage": "https://github.com/fabianbuijing/react-styled-slides#readme"
+  }
